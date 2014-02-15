@@ -1,1 +1,2 @@
 THis is my origianal doc
+THis is my line added later (that I want to remove)
