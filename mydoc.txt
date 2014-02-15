@@ -1,4 +1,8 @@
 THis is my origianal doc
+<<<<<<< HEAD
 THis is new#2
 THis is new#3
 Adding text #4
+=======
+THis is my line added later (that I want to remove)
+>>>>>>> parent of 00f528e... comitting text#2#
