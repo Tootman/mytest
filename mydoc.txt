@@ -1,22 +1,13 @@
 THis is my origianal doc
-<<<<<<< HEAD
+
 THis is new#2
 
 Adding text #4
-<<<<<<< HEAD
-=======
-THis is my line added later (that I want to remove)
->>>>>>> parent of 00f528e... comitting text#2#
 
-THis is my first file change 1pm Monday rd March 2013
-Ths is a change after last change was staged (13:01)
-THis is a line that I will discover is bad (13:15)
-This is a line I added after
-and here is another
-=======
+THis is my line added later (that I want to remove)
+
 
 This is the first line of my new branch (14:17)
 2nd line of new branch
 THis is a third new line 14:24
 And the 4th line of new branch (14:36) , (and took away line #3 from a previous commit
->>>>>>> mynewbranchname
