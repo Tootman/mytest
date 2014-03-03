@@ -13,4 +13,5 @@ Tidying up old stuff
 function testfeature () {
 	blah
 	blah
+	extra blah
 }
