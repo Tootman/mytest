@@ -10,7 +10,15 @@ Tidying up old stuff
 	THis is a third new line 14:24
 	And the 4th line of new branch (14:36) , (and took away line #3 from a previous commit
 
+
 function additional_master_function {
 	blahx
 	blAhx
+}
+
+
+function testfeature () {
+	blah
+	blah
+	extra blah
 }
