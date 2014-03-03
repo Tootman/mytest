@@ -10,3 +10,4 @@ THis is my line added later (that I want to remove)
 THis is my first file change 1pm Monday rd March 2013
 Ths is a change after last change was staged (13:01)
 THis is a line that I will discover is bad (13:15)
+This is a line I added after
