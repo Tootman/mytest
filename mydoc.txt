@@ -17,8 +17,17 @@ function additional_master_function {
 }
 
 
+function testfeature2 () {
+	blah2
+	blah2
+	extra blah2
+}
+
+
+
 function testfeature () {
 	blah
 	blah
 	extra blah
 }
+
