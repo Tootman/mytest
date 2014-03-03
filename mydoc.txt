@@ -1,7 +1,9 @@
 THis is my origianal doc
 THis is new#2
-THis is new#3
+
 Adding text #4
 
 This is the first line of my new branch (14:17)
-2nd line of branch
+2nd line of new branch
+THis is a third new line 14:24
+And the 4th line of new branch (14:36) , (and took away line #3 from a previous commit
