@@ -6,3 +6,6 @@ Adding text #4
 =======
 THis is my line added later (that I want to remove)
 >>>>>>> parent of 00f528e... comitting text#2#
+
+THis is my first file change 1pm Monday rd March 2013
+Ths is a change after last change was staged (13:01)
