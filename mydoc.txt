@@ -1,13 +1,11 @@
-THis is my origianal doc
+This will be my basis
 
-THis is new#2
-
-Adding text #4
-
-THis is my line added later (that I want to remove)
-
-
-This is the first line of my new branch (14:17)
-2nd line of new branch
-THis is a third new line 14:24
-And the 4th line of new branch (14:36) , (and took away line #3 from a previous commit
+Tidying up old stuff
+	THis is my origianal doc
+	THis is new#2
+	Adding text #4
+	THis is my line added later (that I want to remove)
+	This is the first line of my new branch (14:17)
+	2nd line of new branch
+	THis is a third new line 14:24
+	And the 4th line of new branch (14:36) , (and took away line #3 from a previous commit
